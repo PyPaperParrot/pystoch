@@ -6,5 +6,4 @@ This package designed for stochastic processes simulation and their analysis.
 --pystoch
 
 	|
-
 	|-__init__.py
