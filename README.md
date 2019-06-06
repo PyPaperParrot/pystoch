@@ -3,13 +3,15 @@
 This package designed for stochastic processes simulation and their analysis. 
 
 ## Package's architecture
-- Уровень списка 1. Пункт 1.
-    - Уровень списка 2. Пункт 1.
-- Уровень списка 1. Пункт 2.
-    - Уровень списка 2. Пункт 1.
-    - Уровень списка 2. Пункт 2.
-- Уровень списка 1. Пункт 3.
-    - Уровень списка 2. Пункт 1.
-        - Уровень списка 3. Пункт 1.
-        - Уровень списка 3. Пункт 2.
-           - Уровень списка 4. Пункт 1.
+- pystoch
+    - __init__.py
+	- SDEprocesses
+		- __init__.py
+		- explicit.py
+		- implicit.py
+	- SDEsystems.py
+	- analysis.py
+	- exceptions.py
+- setup.py
+- README.md
+- LICENSE
