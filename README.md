@@ -1,2 +1,6 @@
-# pystoch
-Python package for modeling stochastic processes and for SDE analysis
+#PyStoch
+-------------------------------------------------------
+This package designed for stochastic processes simulation and their analysis. 
+-------------------------------------------------------
+##Package's architecture
+
